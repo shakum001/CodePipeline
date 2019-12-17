@@ -1,4 +1,3 @@
-# CodePipeline
 Version: 0.2
 	Phases:
 	  install:
